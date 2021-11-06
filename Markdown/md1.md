@@ -2,6 +2,5 @@
 ============
 |분류: 흉상어속 / 상어|
 |----------|
-<img src="bs1.jpeg" width="100px" height="50px" title="bs"/>
-|<img src="bs2.jpeg" width="100px" height="50px" title="bs"/>|
-|-----------------------------------------------------------------|
+|<img src="bs1.jpeg" width="100px" height="50px" title="bs"/>|<img src="bs2.jpeg" width="100px" height="50px" title="bs"/>|
+|--------------------------------|---------------------------------|
